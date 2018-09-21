@@ -16,7 +16,7 @@ public class KonstrukturSuperKelas {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Employ programer1 = new Employ("12345678", "Yanto", 32);
+        Employ programer1 = new Employ("12345678", "Vania", 20);
         programer1.info();
     }
 
